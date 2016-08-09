@@ -1,0 +1,32 @@
+.G2GS {
+  text-align: right;
+  float: right;
+  padding: 5px 0 5px 5px;
+}
+
+.G2GStitle {
+  font-family: century-gothic, arial, sans-serif;
+  font-size: 1.25em;
+  margin-bottom: 2px
+}
+
+.G2GSitem {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.G2GSitem div {
+  display: block;
+  width: 90%;
+  height: auto;
+  padding: 3px 6px;
+  margin-bottom: 2px;
+  border-radius: 5px;
+  background-color: #9ACA3C;
+  font-family: century-gothic, arial, sans-serif;
+  float: right;
+}
+
+.G2GSitem div:hover {
+  box-shadow: 0px 0px 0px 2px grey inset;
+}
